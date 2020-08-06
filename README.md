@@ -1,4 +1,4 @@
-### Hi there, [website] 👋
+### Hi there,  [website] 👋
 
 ## I'm a Data Scientist/Deep Learning Engineer/Senior Software Engineer!
 - 🔭 I’m currently working at KapitalBank OJSC as a Data Scientist(Remote)!
@@ -59,10 +59,7 @@
 
 ---
 
-[website]: https://github.com/ramilabbaszade
-[twitter]: https://twitter.com/abbaszadaramil
-[facebook]: https://www.facebook.com/ramil.abbaszade.923
-[instagram]: https://instagram.com/ramilabbaszade
-[linkedin]: https://www.linkedin.com/in/ramil-abbaszada-07316a180/
-[medium]: https://medium.com/@abbasovramil65
-[behance]: https://www.behance.net/ramilabbaszada
+[website]: https://mirzezadehelvin.wixsite.com/dsblog
+[facebook]: https://www.facebook.com/elvin.mirze
+[linkedin]: https://www.linkedin.com/in/elvinmirze/
+[medium]: https://medium.com/@mirzezadeh.elvin
