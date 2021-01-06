@@ -1,8 +1,7 @@
 ### Hi there,  [website] 👋
 
 ## I'm a Data Scientist/Deep Learning Engineer/Senior Software Engineer!
-- 🔭 I’m currently working at KapitalBank OJSC as a Data Scientist(Remote)!
-- 🌱 I’m currently studying Master of Data Science at Università di Padova!
+- 🔭 I’m currently working at KapitalBank OJSC as a Data Scientist!
 - ⚡ Fun fact: I love to jogging, riding and play chess!
 
 ### Connect with me:
