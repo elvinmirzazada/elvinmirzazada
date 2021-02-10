@@ -1,7 +1,7 @@
 ### Hi there,  [website] 👋
 
 ## I'm a Data Scientist/Deep Learning Engineer/Senior Software Engineer!
-- 🔭 I’m currently working at KapitalBank OJSC as a Data Scientist!
+- 🔭 I’m currently working at Novuter GmbH as a Senior Software Engineer!
 - ⚡ Fun fact: I love to jogging, riding and play chess!
 
 ### Connect with me:
