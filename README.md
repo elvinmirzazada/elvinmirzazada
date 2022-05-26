@@ -1,7 +1,7 @@
 ### Hi there,  [website] 👋
 
-## I'm a Data Scientist/Deep Learning Engineer/Software Engineer!
-- 🔭 I currently work at STACC OU as a Data Scientist!
+## I'm a Software Engineer | Machine Learning Engineer!
+- 🔭 I currently work at incuda GmbH as a Software Engineer!
 - ⚡ Fun fact: I love to jogging, riding and play chess!
 
 ### Connect with me:
