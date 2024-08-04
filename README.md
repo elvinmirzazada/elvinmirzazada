@@ -1,7 +1,7 @@
 ### Hi there,  [website] 👋
 
 ## I'm a Software Engineer
-- 🔭 I currently work at incuda GmbH as a Software Engineer!
+- 🔭 I currently work at UnionFintech OU as a Software Engineer!
 - ⚡ Fun fact: I love to jogging, riding and play chess!
 
 ### Connect with me:
