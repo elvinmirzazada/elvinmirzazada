@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer
 - 🔭 I currently work at UnionFintech OU as a Software Engineer!
-- ⚡ Fun fact: I love to jogging, riding and play chess!
+- ⚡ Fun fact: I love jogging, riding and playing chess!
 
 ### Connect with me:
 
